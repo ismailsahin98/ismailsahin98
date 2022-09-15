@@ -4,4 +4,4 @@
 - 📫 How to reach me {
 - so.sahin15@gmail.com
 - linkedin.com/in/ismail-şahin-19283a20a
-
+}
