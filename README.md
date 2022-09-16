@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spartanbae
+- 👋 Hi, I’m @ismailsahin98
 - 👀 I’m interested in data science, machine learning and AI,
 - 🌱 I’m currently learning big data
 - 📫 How to reach me {
